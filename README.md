@@ -1,4 +1,4 @@
-# nodejs fileUpload demo
+# nodejs File Upload demo
 
 ### The example demonstrates file upload to a server folder using nodejs and dropzonejs.
 #### step 1 : npm install
