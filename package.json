@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-imageupload-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoque/nodejs-imageupload-demo.git"
+  },
+  "author": "Shamiul Hoque <shoq9876@gmail.com> (shamiulhoque.info)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoque/nodejs-imageupload-demo/issues"
+  },
+  "homepage": "https://github.com/shoque/nodejs-imageupload-demo#readme",
+  "dependencies": {
+    "ejs": "^2.5.1",
+    "express": "^4.14.0",
+    "express-fileupload": "0.0.5"
+  }
+}
