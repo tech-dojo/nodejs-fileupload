@@ -1,6 +1,10 @@
-# nodejs File Upload demo
+# File Upload with Node.js & DropzoneJS (demo)
 
-### The example demonstrates file upload to a server folder using nodejs and dropzonejs.
-#### step 1 : npm install
-#### step 2 : node server.js
-#### step 3 : upload a file with dropzone js at localhost:3000/
+### This example demonstrates file upload to a server folder using Node.js and DropzoneJS.
+## How to run
+#### Step 1: git clone this repository
+#### Step 2 : npm install
+#### Step 3 : node server.js
+#### Step 4 : upload a file with DropzoneJS at localhost:3000/
+
+[Read more in the Techdojo Blog] (http://www.tech-dojo.org/#!/articles/57aadf27668545f731862a8c)
